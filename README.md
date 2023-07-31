@@ -1,6 +1,8 @@
 # calculator
 
 A new Flutter project.
+![image](https://github.com/oyegeeky/BMI_CALCULATOR/assets/99176694/5d02bb23-cae6-4e08-a1e0-209956475b3f)
+
 
 ## Getting Started
 
